@@ -22,4 +22,3 @@ TEXT
     expect(hash.convert_syntax(before_text)).to eq convert_text
   end
 end
-
