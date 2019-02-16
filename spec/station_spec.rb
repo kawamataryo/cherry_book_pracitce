@@ -1,6 +1,6 @@
 require './spec/spec_helper'
-require './lib/Ticket'
-require './lib/Gate'
+require './lib/ticket'
+require './lib/gate'
 
 describe '改札機プログラム' do
   let(:umeda_gate) {Gate.new(:umeda)}

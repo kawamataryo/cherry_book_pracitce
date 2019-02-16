@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4002b49f-cd8d-4782-9521-f6e9a3919eae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/Gate.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Ticket.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/Station_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/hash_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/hash_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,16 +23,18 @@
     <SUITE FILE_PATH="coverage/rspec_practice@Rgb_to_hex_1016__rspec_practice.rcov" NAME="Rgb#to_hex 10進数を16進数に変換すること: rspec_practice Coverage Results" MODIFIED="1550065920633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@Rgb_to_ints__rspec_practice.rcov" NAME="Rgb#to_ints: rspec_practice Coverage Results" MODIFIED="1550066392752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@FizzBuzz__rspec_practice.rcov" NAME="FizzBuzz: rspec_practice Coverage Results" MODIFIED="1550061841959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
+    <SUITE FILE_PATH="coverage/rspec_practice@____rspec_practice.rcov" NAME="改札機プログラム 梅田乗車の時 十三乗車の時: rspec_practice Coverage Results" MODIFIED="1550151699660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@3_Fizz__rspec_practice.rcov" NAME="3の倍数の場合 Fizzを返すこと: rspec_practice Coverage Results" MODIFIED="1550061426782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@ConvertLength__rspec_practice.rcov" NAME="ConvertLength: rspec_practice Coverage Results" MODIFIED="1550100172049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@Hash__rspec_practice.rcov" NAME="Hash: rspec_practice Coverage Results" MODIFIED="1550144897589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@Rgb_to_ints_1610__rspec_practice.rcov" NAME="Rgb#to_ints 16進数を10進数に変換すること: rspec_practice Coverage Results" MODIFIED="1550066204115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@ConvertLength_m__rspec_practice.rcov" NAME="ConvertLength mから変換する場合: rspec_practice Coverage Results" MODIFIED="1550099931213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
-    <SUITE FILE_PATH="coverage/rspec_practice@__rspec_practice.rcov" NAME="改札機プログラム: rspec_practice Coverage Results" MODIFIED="1550150466718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
+    <SUITE FILE_PATH="coverage/rspec_practice@__rspec_practice.rcov" NAME="改札機プログラム: rspec_practice Coverage Results" MODIFIED="1550152288305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@FizzBuzz____rspec_practice.rcov" NAME="FizzBuzz その他の場合 入力値を返すこと: rspec_practice Coverage Results" MODIFIED="1550061836870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
+    <SUITE FILE_PATH="coverage/rspec_practice@__150__rspec_practice.rcov" NAME="改札機プログラム 三国乗車の時 150円きっぷの場合: rspec_practice Coverage Results" MODIFIED="1550152099416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@Rgb__rspec_practice.rcov" NAME="Rgb: rspec_practice Coverage Results" MODIFIED="1550066491262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
     <SUITE FILE_PATH="coverage/rspec_practice@Hash___rspec_practice.rcov" NAME="Hash シンボルを使った記法に変換すること: rspec_practice Coverage Results" MODIFIED="1550144837605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
-    <SUITE FILE_PATH="coverage/rspec_practice@___rspec_practice.rcov" NAME="改札機プログラム 梅田乗車の時: rspec_practice Coverage Results" MODIFIED="1550149786546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
+    <SUITE FILE_PATH="coverage/rspec_practice@___rspec_practice.rcov" NAME="改札機プログラム 三国乗車の時: rspec_practice Coverage Results" MODIFIED="1550152253652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_practice" />
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
@@ -76,8 +75,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/Ticket.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+                <state relative-caret-position="120">
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
                 </state>
               </provider>
             </entry>
@@ -85,8 +84,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/Station_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="326">
-                  <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+                <state relative-caret-position="810">
+                  <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -125,8 +124,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/Gate.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+                <state relative-caret-position="210">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
                 </state>
               </provider>
             </entry>
@@ -135,7 +134,7 @@
             <entry file="file://$PROJECT_DIR$/lib/hash.rb">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="75">
-                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
                 </state>
               </provider>
             </entry>
@@ -179,13 +178,13 @@
         <option value="$PROJECT_DIR$/spec/convert_length_spec.rb" />
         <option value="$PROJECT_DIR$/lib/hash.rb" />
         <option value="$PROJECT_DIR$/spec/hash_spec.rb" />
-        <option value="$PROJECT_DIR$/spec/Station_spec.rb" />
         <option value="$PROJECT_DIR$/lib/Ticket.rb" />
         <option value="$PROJECT_DIR$/lib/Gate.rb" />
+        <option value="$PROJECT_DIR$/spec/Station_spec.rb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -193,6 +192,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -224,7 +224,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550150463726" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550217732014" />
     <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -265,7 +265,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="改札機プログラム 梅田乗車の時: rspec_practice" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="改札機プログラム 十三乗車の時 150円きっぷの場合: rspec_practice" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_practice" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -287,7 +287,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/Station_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="改札機プログラム 梅田乗車の時" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="改札機プログラム 十三乗車の時 150円きっぷの場合" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -300,7 +300,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertLength: rspec_practice" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="改札機プログラム 三国乗車の時 150円きっぷの場合: rspec_practice" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_practice" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -319,10 +319,10 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/convert_length_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/Station_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="ConvertLength" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="改札機プログラム 三国乗車の時 150円きっぷの場合" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -335,7 +335,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash シンボルを使った記法に変換すること: rspec_practice" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="改札機プログラム 十三乗車の時: rspec_practice" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_practice" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -354,10 +354,10 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/hash_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/Station_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Hash シンボルを使った記法に変換すること" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="改札機プログラム 十三乗車の時" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -370,7 +370,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash: rspec_practice" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="改札機プログラム 三国乗車の時: rspec_practice" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_practice" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -389,10 +389,10 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/hash_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/Station_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Hash" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="改札機プログラム 三国乗車の時" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -451,10 +451,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="RSpec.改札機プログラム: rspec_practice" />
-        <item itemvalue="RSpec.改札機プログラム 梅田乗車の時: rspec_practice" />
-        <item itemvalue="RSpec.Hash: rspec_practice" />
-        <item itemvalue="RSpec.Hash シンボルを使った記法に変換すること: rspec_practice" />
-        <item itemvalue="RSpec.ConvertLength: rspec_practice" />
+        <item itemvalue="RSpec.改札機プログラム 三国乗車の時: rspec_practice" />
+        <item itemvalue="RSpec.改札機プログラム 三国乗車の時 150円きっぷの場合: rspec_practice" />
+        <item itemvalue="RSpec.改札機プログラム 十三乗車の時: rspec_practice" />
+        <item itemvalue="RSpec.改札機プログラム 十三乗車の時 150円きっぷの場合: rspec_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -469,65 +469,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550059521637</updated>
-      <workItem from="1550059523196" duration="13475000" />
+      <workItem from="1550059523196" duration="16763000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Hash_シンボルを使った記法に変換すること__rspec_practice - 2019.02.14 at 20h 45m 28s.xml">
-      <configuration name="Hash シンボルを使った記法に変換すること: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_十三乗車の時__rspec_practice - 2019.02.14 at 22h 45m 14s.xml">
+      <configuration name="改札機プログラム 十三乗車の時: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Hash_シンボルを使った記法に変換すること__rspec_practice - 2019.02.14 at 20h 46m 43s.xml">
-      <configuration name="Hash シンボルを使った記法に変換すること: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_十三乗車の時_150円きっぷの場合__rspec_practice - 2019.02.14 at 22h 45m 30s.xml">
+      <configuration name="改札機プログラム 十三乗車の時 150円きっぷの場合: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Hash_シンボルを使った記法に変換すること__rspec_practice - 2019.02.14 at 20h 47m 06s.xml">
-      <configuration name="Hash シンボルを使った記法に変換すること: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_十三乗車の時_150円きっぷの場合__rspec_practice - 2019.02.14 at 22h 46m 15s.xml">
+      <configuration name="改札機プログラム 十三乗車の時 150円きっぷの場合: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Hash_シンボルを使った記法に変換すること__rspec_practice - 2019.02.14 at 20h 47m 18s.xml">
-      <configuration name="Hash シンボルを使った記法に変換すること: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_十三乗車の時_150円きっぷの場合__rspec_practice - 2019.02.14 at 22h 46m 32s.xml">
+      <configuration name="改札機プログラム 十三乗車の時 150円きっぷの場合: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Hash__rspec_practice - 2019.02.14 at 20h 47m 33s.xml">
-      <configuration name="Hash: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_十三乗車の時__rspec_practice - 2019.02.14 at 22h 47m 03s.xml">
+      <configuration name="改札機プログラム 十三乗車の時: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Hash__rspec_practice - 2019.02.14 at 20h 47m 44s.xml">
-      <configuration name="Hash: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_十三乗車の時__rspec_practice - 2019.02.14 at 22h 47m 49s.xml">
+      <configuration name="改札機プログラム 十三乗車の時: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Hash__rspec_practice - 2019.02.14 at 20h 47m 51s.xml">
-      <configuration name="Hash: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_三国乗車の時_150円きっぷの場合__rspec_practice - 2019.02.14 at 22h 48m 20s.xml">
+      <configuration name="改札機プログラム 三国乗車の時 150円きっぷの場合: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Hash__rspec_practice - 2019.02.14 at 20h 48m 18s.xml">
-      <configuration name="Hash: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_三国乗車の時__rspec_practice - 2019.02.14 at 22h 50m 40s.xml">
+      <configuration name="改札機プログラム 三国乗車の時: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="改札機プログラム_梅田乗車の時__rspec_practice - 2019.02.14 at 22h 09m 47s.xml">
-      <configuration name="改札機プログラム 梅田乗車の時: rspec_practice" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="改札機プログラム_三国乗車の時__rspec_practice - 2019.02.14 at 22h 50m 54s.xml">
+      <configuration name="改札機プログラム 三国乗車の時: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="改札機プログラム__rspec_practice - 2019.02.14 at 22h 20m 20s.xml">
+    <history-entry file="改札機プログラム__rspec_practice - 2019.02.14 at 22h 51m 29s.xml">
       <configuration name="改札機プログラム: rspec_practice" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13475000" />
+    <option name="totallyTimeSpent" value="16763000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="1" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -581,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/convert_length_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        <state relative-caret-position="105">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -599,28 +598,28 @@
     <entry file="file://$PROJECT_DIR$/lib/hash.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Ticket.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/Station_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Gate.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Station_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
         </state>
       </provider>
     </entry>
